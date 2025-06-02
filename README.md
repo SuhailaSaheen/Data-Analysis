@@ -7,6 +7,6 @@
 ### + Correcting inconsistencies, 
 ### + Remove Duplicates and 
 ### + Handle Missing values as well.
-# You can find the Python code for this Data processing in the <ins>Notebook.ipynb<ins/> file included in this repository.
+# You can find the Python code for this Data processing in the <ins> Notebook.ipynb <ins/> file included in this repository.
 ## Tools Used : <ins> Python-Pandas <ins/>
 ## Dataset Info: Customer Personality Analysis from Kaggle[Link](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)

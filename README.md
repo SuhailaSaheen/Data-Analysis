@@ -7,7 +7,8 @@ with help of python(panda) I convert a raw data into processed data using some v
  + Standardizing the Data, 
  + Correcting inconsistencies, 
  + Remove Duplicates and 
- + Handle Missing values as well.
+ + Handle Missing values as well. likely, I can't find any duplicate value or missing value in this dataset but it has other difficulties.
+   
 You can find the Python code for this Data processing in the **Notebook.ipynb** file included in this repository.
 ## Tools Used:
 <ins> Python-Pandas <ins/>

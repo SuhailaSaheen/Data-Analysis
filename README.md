@@ -1,6 +1,6 @@
 # TASK 1: Data Cleaning and Preprocessing
 ## Description: with help of python(panda) I convert a raw data into processed data using some vital cleaning techniques, Such as
-### 'Rename Column Head', 
+### + Rename Column Head, 
 ### +Reorder the Columns, 
 ### +Fix Data Type, 
 ### +Standardizing the Data, 
